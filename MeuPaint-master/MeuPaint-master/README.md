@@ -1,7 +1,9 @@
-# MeuPaint
+Programa criado em Java na aula de POO para fechamento de semestre. 
+O programa é um paint simples, onde é possível criar formar geométricas, tais como: Elipse, Polígono, Retangulo e Linha. 
 
 Aplicação didática para ensino de herança e polimorfismo em Java.
 
-## Autor
+Professor: David Buzatto
+IFSP-SJBV
 
-Desenvolvido por Prof. Dr. David Buzatto.
+
